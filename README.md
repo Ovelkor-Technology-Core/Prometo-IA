@@ -1,2 +1,2 @@
 # ONIXRA
-"IA autodidacta de código abierto con aspiración cuántica"
+"IA autodidacta con aspiración cuántica"
